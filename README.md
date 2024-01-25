@@ -1,3 +1,3 @@
 # willcodehtmlfor.pizza
 
-Website at https://willcodehtmlfor.pizza/
+Website at https://willcodehtmlfor.pizza
